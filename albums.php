@@ -17,11 +17,11 @@
     <div class="navbar">
         <nav>
             <ul>
-                <a href="/">
+                <a href="index.php">
                     <li class="brand"><img src="img/logo.png" alt="Must Music">Must Music</li>
                 </a>
-                <li><a href="/">Home</a></li>
-                <li><a href="/aboutme">About</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
             </ul>
         </nav>
         <div class="social">
