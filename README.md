@@ -1,4 +1,4 @@
-# Must-Music
+# Must Music
 A Spotify inspired music streaming website which has a never seen before UI and allows you to listen high quality music seamlessly.
 
 # Key Features
